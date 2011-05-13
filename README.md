@@ -6,7 +6,11 @@ Snoother is a gem for accessing the Snooth database and is modeled after their o
 
 [Snooth](http://snooth.com) is a social-based wine shopping website. They claim to have the world's largest wine database. That database is available through the [Snooth API](http://api.snooth.com) and this gem exposes the api for use in your Ruby project.
 
-_Note: This is not yet ready for use._
+## Project Notes
+
+_This is not yet ready for use!_
+
+Todo: figure out how to test without hitting the api on every test. _Maybe take a look at [VCR](http://relishapp.com/myronmarston/vcr)?_
 
 ## Setup
 
